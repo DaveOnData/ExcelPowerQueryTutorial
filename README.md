@@ -9,3 +9,7 @@ Public repository for files related to Dave Langer's "[Excel Power Query for Adv
 ## Excel Power Query - Add Column From Examples (Part 2)
 - [Video](https://youtu.be/u4ggLwg43GM)
 - [Excel file](PowerQueryTutorial_Part2.xlsx)
+
+## Excel Power Query - Add Custom Column 1 (Part 3)
+- [Video](https://youtu.be/iMX8yZtupzg)
+- [Excel file](PowerQueryTutorial_Part3.xlsx)
