@@ -13,3 +13,7 @@ Public repository for files related to Dave Langer's "[Excel Power Query for Adv
 ## Excel Power Query Tutorial - Add Custom Column 1 (Part 3)
 - [Video](https://youtu.be/iMX8yZtupzg)
 - [Excel file](PowerQueryTutorial_Part3.xlsx)
+
+## Excel Power Query Tutorial - Add Conditional Column (Part 4)
+- [Video](https://youtu.be/HOlG0cwZ6GQ)
+- [Excel file](PowerQueryTutorial_Part4.xlsx)
