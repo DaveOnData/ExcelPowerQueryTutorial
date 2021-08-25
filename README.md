@@ -17,3 +17,7 @@ Public repository for files related to Dave Langer's "[Excel Power Query for Adv
 ## Excel Power Query Tutorial - Add Conditional Column (Part 4)
 - [Video](https://youtu.be/HOlG0cwZ6GQ)
 - [Excel file](PowerQueryTutorial_Part4.xlsx)
+
+## Excel Power Query Tutorial - Grouping Tables of Data (Part 5)
+- [Video](https://youtu.be/bCZAfMB3SlY)
+- [Excel file](PowerQueryTutorial_Part5.xlsx)
