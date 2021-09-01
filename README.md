@@ -21,3 +21,7 @@ Public repository for files related to Dave Langer's "[Excel Power Query for Adv
 ## Excel Power Query Tutorial - Grouping Tables of Data (Part 5)
 - [Video](https://youtu.be/bCZAfMB3SlY)
 - [Excel file](PowerQueryTutorial_Part5.xlsx)
+
+## Excel Power Query Tutorial - Transforming Nested Tabls (Part 6)
+- [Video](https://youtu.be/DgfVx3FgE3E)
+- [Excel file](PowerQueryTutorial_Part6.xlsx)
