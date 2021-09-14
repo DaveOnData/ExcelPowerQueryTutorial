@@ -22,6 +22,10 @@ Public repository for files related to Dave Langer's "[Excel Power Query for Adv
 - [Video](https://youtu.be/bCZAfMB3SlY)
 - [Excel file](PowerQueryTutorial_Part5.xlsx)
 
-## Excel Power Query Tutorial - Transforming Nested Tabls (Part 6)
+## Excel Power Query Tutorial - Transforming Nested Tables (Part 6)
 - [Video](https://youtu.be/DgfVx3FgE3E)
 - [Excel file](PowerQueryTutorial_Part6.xlsx)
+
+## Excel Power Query Tutorial - Merging Tables (Part 7)
+- [Video](https://youtu.be/shMpyKIiGvY)
+- [Excel file](PowerQueryTutorial_Part7.xlsx)
